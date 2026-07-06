@@ -1,9 +1,9 @@
-# Week {Number}: {Project Title}
+# Week 4: Javascript Fundamentals
 
 ## Author
-- **Name:** Your Full Name
-- **GitHub:** [@MaisoriKitayama](https://github.com/MaisoriKitayama)
-- **Date:** Month Day, Year
+- **Name:** Antony Juma
+- **GitHub:** [@itskaysir](https://github.com/itskaysir)
+- **Date:** July 6, 2026
 
 ## Project Description
 Brief description of what you built and why.
