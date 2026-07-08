@@ -28,3 +28,10 @@ const reverseString = (str) => {
 }
 
 reverseString('Hello'); // Returns 'olleH'
+
+function tipBill(bill, tipPercent = 15) {
+    const tipAmount = bill * (tipPercent / 100);
+    return bill + tipAmount;
+}
+
+tipBill(100, 20); // Returns 120
